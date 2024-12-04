@@ -1,20 +1,25 @@
 src
-  components
-    Navbar.tsx
-  context
-    CartContext.tsx
-  pages
-    index.tsx (Home)
-    product
-      Product.tsx
-      ProductItem.tsx
-      ProductDetail.tsx
-    cart
-      Cart.tsx
+--components
+----Navbar.tsx
+
+--context
+----CartContext.tsx
+
+--pages
+----index.tsx (Home)
+
+----product
+------Product.tsx
+------ProductItem.tsx
+------ProductDetail.tsx
+
+----cart
+------Cart.tsx
       CartItem.tsx
-    favorite
-      Favorite.tsx
-      FavoriteItem.tsx
+      
+----favorite
+------Favorite.tsx
+------FavoriteItem.tsx
 
 npm i react-router-dom
 npm i bootstrap
