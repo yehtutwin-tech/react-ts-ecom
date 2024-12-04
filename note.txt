@@ -1,0 +1,25 @@
+src
+  components
+    Navbar.tsx
+  context
+    CartContext.tsx
+  pages
+    index.tsx (Home)
+    product
+      Product.tsx
+      ProductItem.tsx
+      ProductDetail.tsx
+    cart
+      Cart.tsx
+      CartItem.tsx
+    favorite
+      Favorite.tsx
+      FavoriteItem.tsx
+
+npm i react-router-dom
+npm i bootstrap
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/free-brands-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
